@@ -1,5 +1,7 @@
 # Fetch Browser
 
+[![smithery badge](https://smithery.ai/badge/@TheSethRose/fetch-browser)](https://smithery.ai/server/@TheSethRose/fetch-browser)
+
 A powerful headless browser MCP server that enables AI agents to fetch web content and perform Google searches without requiring any API keys. Built with modern web standards and designed for seamless integration with AI platforms.
 
 ## Features
